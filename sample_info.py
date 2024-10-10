@@ -28,7 +28,7 @@ Hᴇʏ . Official ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ☕
 Iᴍ Tʜᴇ Mᴏsᴛ Aᴅᴠᴀɴᴄᴇ Aɪ Pᴏᴡᴇʀᴅ Bᴏᴛ.‍☠️
 Jᴜꜱᴛ Sᴇɴᴅ Mᴇ Aɴʏ Mᴏᴠɪᴇꜱ & Sᴇʀɪᴇꜱ Nᴀᴍᴇ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.
 
- ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - Official owner. (In site link on telegram t.me/Garmara_slow)
+ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - Official owner. (<a href="https://t.me/Garmara_slow">In site link</a>)
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
