@@ -23,9 +23,12 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+Hᴇʏ . Official ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ☕ 
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+Iᴍ Tʜᴇ Mᴏsᴛ Aᴅᴠᴀɴᴄᴇ Aɪ Pᴏᴡᴇʀᴅ Bᴏᴛ.‍☠️
+Jᴜꜱᴛ Sᴇɴᴅ Mᴇ Aɴʏ Mᴏᴠɪᴇꜱ & Sᴇʀɪᴇꜱ Nᴀᴍᴇ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.
+
+ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - Official owner. (In site link on telegram t.me/Garmara_slow)
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
