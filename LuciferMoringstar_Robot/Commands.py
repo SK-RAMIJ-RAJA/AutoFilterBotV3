@@ -91,10 +91,11 @@ async def start(bot, message):
                 if f_caption is None:
                     f_caption = f"{files.file_name}"
                 
-                # Creating buttons
+                # Creating buttons with links to updates and movie group
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 DEPLOY YOURS 🎖', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('📢 Join Updates Channel', url='YOUR_UPDATES_CHANNEL_LINK'),
+                        InlineKeyboardButton('🎬 Join Movie Group', url='YOUR_MOVIE_GROUP_LINK')
                     ]
                 ]
 
@@ -102,7 +103,7 @@ async def start(bot, message):
                 await bot.send_cached_media(
                     chat_id=message.from_user.id,
                     file_id=file_id,
-                    caption=f"{f_caption} \n\n🏷️ Title: _{title}_ \n📏 Size: _{size}_",  # Adding title and size here
+                    caption=f"{f_caption} \n\n🏷️ Title: _{title}_ \n📏 Size: _{size}_",
                     reply_markup=InlineKeyboardMarkup(buttons)
                 )
         except Exception as err:
@@ -239,4 +240,5 @@ async def unban(c, m):
 
     try:
         user_id = int(m.command[1])
-        unban_log_text = f"Unbanning user 🤪 {user_id
+        unban_log_text = f"Unbanning user 🤪 {user_id}."
+        await db.unban_user
